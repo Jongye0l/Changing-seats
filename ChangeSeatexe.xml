@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<launch4jConfig>
+  <dontWrapJar>false</dontWrapJar>
+  <headerType>gui</headerType>
+  <jar>D:\github\Changing seats\out\artifacts\Runner\Runner.jar</jar>
+  <outfile>C:\Users\bcpjy\Desktop\자리바꾸기.exe</outfile>
+  <errTitle></errTitle>
+  <cmdLine></cmdLine>
+  <chdir>.</chdir>
+  <priority>normal</priority>
+  <downloadUrl></downloadUrl>
+  <supportUrl></supportUrl>
+  <stayAlive>false</stayAlive>
+  <restartOnCrash>false</restartOnCrash>
+  <manifest></manifest>
+  <icon>C:\Users\bcpjy\Desktop\favicon.ico</icon>
+  <jre>
+    <path>%JAVA_HOME%;%PATH%</path>
+    <requiresJdk>true</requiresJdk>
+    <requires64Bit>false</requires64Bit>
+    <minVersion>11</minVersion>
+    <maxVersion>17.0.5</maxVersion>
+  </jre>
+  <versionInfo>
+    <fileVersion>1.0.0.0</fileVersion>
+    <txtFileVersion>Change Seat</txtFileVersion>
+    <fileDescription>It&apos;s a place-changing program.</fileDescription>
+    <copyright>Copyright (c) 2022, Jongyeol All rights reserved.</copyright>
+    <productVersion>1.0.0.0</productVersion>
+    <txtProductVersion>Change Seat</txtProductVersion>
+    <productName>Change Seat</productName>
+    <companyName>Jongyeol</companyName>
+    <internalName>ChangeSeat</internalName>
+    <originalFilename>Change Seat.exe</originalFilename>
+    <trademarks></trademarks>
+    <language>KOREAN</language>
+  </versionInfo>
+</launch4jConfig>
